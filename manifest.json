@@ -1,0 +1,11 @@
+{
+    "name": "Links Muh Fatur Idris",
+    "short_name": "Muh Fatur Idris",
+    "description": "Links Muh Fatur Idris",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
